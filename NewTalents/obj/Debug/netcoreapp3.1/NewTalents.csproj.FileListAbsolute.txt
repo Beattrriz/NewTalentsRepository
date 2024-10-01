@@ -1,0 +1,13 @@
+D:\Visual-Community-NET\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\Visual-Community-NET\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\Visual-Community-NET\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\Visual-Community-NET\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\Visual-Community-NET\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\Visual-Community-NET\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Visual-Community-NET\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual-Community-NET\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\Visual-Community-NET\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\Visual-Community-NET\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\Visual-Community-NET\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\Visual-Community-NET\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Visual-Community-NET\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
